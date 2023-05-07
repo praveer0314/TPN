@@ -97,6 +97,16 @@ body {
     font-size: 1.2rem;
     font-family: Montserrat;
 }
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 4rem;
+    height: 6.5em;
+    vertical-align: middle;
+    background-image: var(--bs-navbar-toggler-icon-bg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
 
 .download-button {
     margin: 5% 3% 5% 0%;
@@ -197,8 +207,8 @@ p {
     .title-image {
         position: static;
         transform: rotate(0);
-        display: block;
-        margin: 0 auto;
+        margin: 6% 0%;
+    
     }
 }
 
