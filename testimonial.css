@@ -38,7 +38,7 @@ body {
     backface-visibility: hidden;
 }
 .card .box.front{
-    background-image: url(patternfinal.jpeg);
+    background-image: url();
     background-repeat: repeat;
 }
 .card .box.front,
